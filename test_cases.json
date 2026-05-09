@@ -1,0 +1,12 @@
+[
+  {
+    "test_id": "TC_01",
+    "inputs": { "temp": 80, "pressure": 30, "vibration": 4 },
+    "expected": "NORMAL"
+  },
+  {
+    "test_id": "TC_02",
+    "inputs": { "temp": 105, "pressure": 30, "vibration": 4 },
+    "expected": "OVERHEAT WARNING"
+  }
+]
