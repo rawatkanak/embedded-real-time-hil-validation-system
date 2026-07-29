@@ -135,6 +135,8 @@ The logging system enables:
 * debugging
 * traceability
 
+* 
+
 ---
 
 # Real-Time Dashboard
