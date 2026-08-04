@@ -286,8 +286,7 @@ http://localhost:8501
 * Streamlit
 * JSON
 * VS Code
-* SIL
-* HIL
+
 ---
 
 
