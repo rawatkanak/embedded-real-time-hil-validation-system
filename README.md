@@ -291,5 +291,5 @@ http://localhost:8501
 
 
 * Fault injection scheduling
-Author: KANAK RAWAT
+Author: Kanak Rawat
 
