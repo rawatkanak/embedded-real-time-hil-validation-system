@@ -43,6 +43,7 @@ The application runs continuously in a loop and performs the following operation
 4. Validate system state
 5. Store execution data in logs
 6. Display live telemetry in dashboard
+7. Real- Time Analysis
 
 ---
 
